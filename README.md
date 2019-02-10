@@ -1,6 +1,6 @@
 # Bindr, the dating app for books!
 
-Bindr is an book recommendation app written in JavaScript using the MERN stack. Book data is scraped from goodreads.com and stored in MongoDB with a Node/Express server, Mongoose, Cloudinary for media storage, and Passport.js for user auth. It uses React Native through Expo with nativebase.io components on the frontend. 
+Bindr is a book recommendation app written in JavaScript using the MERN stack. Book data is scraped from goodreads.com and stored in MongoDB with a Node/Express server, Mongoose, Cloudinary for media storage, and Passport.js for user auth. It uses React Native through Expo with nativebase.io components on the frontend. 
 
 ## How to run it
 
